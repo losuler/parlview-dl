@@ -4,7 +4,7 @@ Enables an easy way to download recordings from the [Parliament of Australia](ht
 
 # Installation
 
-No dependencies beside `Python 3` is required (only standard libraries are used). Has been tested against `Python 3.6.6`. 
+No dependencies beside `Python 3` is required (only standard libraries are used). Has been tested against `Python 3.8.3`. 
 
 # Usage
 
